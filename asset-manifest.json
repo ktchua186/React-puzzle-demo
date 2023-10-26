@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-puzzle-demo/static/css/main.146a02fc.css",
+    "main.js": "/React-puzzle-demo/static/js/main.a4f0039d.js",
+    "index.html": "/React-puzzle-demo/index.html",
+    "main.146a02fc.css.map": "/React-puzzle-demo/static/css/main.146a02fc.css.map",
+    "main.a4f0039d.js.map": "/React-puzzle-demo/static/js/main.a4f0039d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.146a02fc.css",
+    "static/js/main.a4f0039d.js"
+  ]
+}
