@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-puzzle-demo/static/css/main.146a02fc.css",
-    "main.js": "/React-puzzle-demo/static/js/main.26ff096d.js",
+    "main.css": "/React-puzzle-demo/static/css/main.0e988200.css",
+    "main.js": "/React-puzzle-demo/static/js/main.ea2646cd.js",
     "static/media/game.png": "/React-puzzle-demo/static/media/game.99984e1bcb360b1b2ae7.png",
     "static/media/brain.png": "/React-puzzle-demo/static/media/brain.20870409c07e2c6931c2.png",
     "index.html": "/React-puzzle-demo/index.html",
-    "main.146a02fc.css.map": "/React-puzzle-demo/static/css/main.146a02fc.css.map",
-    "main.26ff096d.js.map": "/React-puzzle-demo/static/js/main.26ff096d.js.map"
+    "main.0e988200.css.map": "/React-puzzle-demo/static/css/main.0e988200.css.map",
+    "main.ea2646cd.js.map": "/React-puzzle-demo/static/js/main.ea2646cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.146a02fc.css",
-    "static/js/main.26ff096d.js"
+    "static/css/main.0e988200.css",
+    "static/js/main.ea2646cd.js"
   ]
 }
